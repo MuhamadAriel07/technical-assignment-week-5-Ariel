@@ -3,5 +3,5 @@
 2. Script sensor.py dan sebuah fungsi untuk mengambil data dari sensor tersebut (script ada di dalam file sensor.py)
 3. Sebuah script utama main.py yang terdiri dari sebuah logic sederhana yang menjawab sebuah use case sederhana (script ada di dalam file sensor.py)
 
-\t( jelaskan use case tersebut dalam MD files! )<br>
-\t(Menjelaskan use case tentang menampilkan indikator (kondisi) suhu. Jika suhu diatas/sama dengan (>=) 35 derajat celcius, maka akan menampilkan indikator "panas", dan    apabila suhu dibawah 35 derajat celcius, maka akan menampilkan indikator "hangat")
+  ( jelaskan use case tersebut dalam MD files! )<br>
+  (Menjelaskan use case tentang menampilkan indikator (kondisi) suhu. Jika suhu diatas/sama dengan (>=) 35 derajat celcius, maka akan menampilkan indikator "panas", dan    apabila suhu dibawah 35 derajat celcius, maka akan menampilkan indikator "hangat")
